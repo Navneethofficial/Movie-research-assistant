@@ -100,8 +100,8 @@ project/
 ## Screenshots
 
 <p align="center">
-  <img src="assets/ss1.png" width="45%" />
-  <img src="assets/ss2.png" width="45%" />
+  <img src="assets/scr1.png" width="45%" />
+  <img src="assets/scr2.png" width="45%" />
 </p>
 
 
